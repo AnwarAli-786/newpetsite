@@ -1,0 +1,1669 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    .top-banner {
+        height: 318px;
+        background-position: center;
+        background-size: cover;
+    }
+    .score_sec_heading h2 {
+        font-size: 18px;
+    }
+    .reg_box {
+        top: -40px;
+    }
+    .suggations {
+        display: none;
+    }
+    .suitable_list ul li {
+        margin-right: 2px;
+    }
+    .breed_for_social {
+        position: absolute;
+        top: -270px;
+        width: 98%;
+    }
+    .pet_list_details ul li {
+        font-size: 10px;
+    }
+    .cate_setup_img {
+        position: relative;
+        background-color: #2c3e50;
+        min-height: 150px;
+    }
+    .feature_menu ul li a {
+        padding: 5px 6px;
+    }
+    .testimonial_section h4 {
+        font-size: 20px;
+    }
+    .navbar-nav .dropdown-menu {
+        position: absolute;
+    }
+    .navbar-nav .nav-link {
+        padding-right: 6px;
+    }
+    .navbar-toggler {
+        display: none;
+    }
+    #navbarSupportedContent {
+        display: block;
+        flex-basis: auto;
+    }
+    .navbar-nav {
+        display: inherit;
+    }
+    .navbar-nav li {
+        display: inline-block;
+    }
+    .navbar-brand {
+        max-width: 180px;
+    }
+    .social-nav li {
+        margin: 0px 0 0 5px;
+    }
+    .copyright {
+        font-size: 15px;
+    }
+    .media_right_btn {
+        width: auto;
+        padding: 1% 20px;
+    }
+    .media_right_btns {
+        widht: auto;
+        padding: 1% 20px;
+    }
+    .gradient_box {
+        text-align: center;
+    }
+    .register_sec h2 {
+        font-size: 24px;
+    }
+    .mmp-works p {
+        font-size: 13px;
+    }
+    .mmp-works h4 {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    .about_mmp {
+        padding: 0px;
+    }
+    .about_mmp h6 {
+        font-size: 15px;
+        line-height: 24px;
+        font-weight: 400;
+    }
+    .about_mmp h4 {
+        line-height: 25px;
+        font-size: 20px;
+    }
+    .features_inner ul li {
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+    .features_inner ul li img {
+        width: 32px;
+    }
+    .title_on_banner {
+        bottom: 20px;
+        left: 0;
+    }
+    .left_section_title h2 {
+        font-size: 28px;
+    }
+    .sub_navigation li a {
+        padding: 10px 20px;
+    }
+    .main_heading {
+        font-size: 24px;
+    }
+    .mmp_manager_box .media-body {
+        padding-top: 10px;
+    }
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .profile_image {
+        width: 60px;
+        height: 60px;
+        top: 110px;
+        left: 3%;
+    }
+    .user_name h4 {
+        font-size: 16px;
+    }
+    .user_detail ul li {
+        font-size: 12px;
+    }
+    .user_name_pic {
+        position: initial;
+        display: block;
+    }
+    /*new pages css */
+    .stick {
+        width: 228px !important;
+    }
+    .abs {
+        width: 228px !important;
+    }
+    .seo-bredcump span {
+        margin: 3px 0 !important;
+    }
+    /*new pages css*/
+}
+
+@media (max-width: 767px) {
+    .header_sticky {
+        position: sticky;
+        top: 0;
+        z-index: 999;
+    }
+    .mega-menu ul li {
+        color: #fff !important;
+    }
+    .mega-menu ul li strong {
+        color: #ecdfa2 !important;
+    }
+    .social-nav {
+        margin: 0px auto;
+        text-align: center;
+        display: table;
+        float: none !important;
+    }
+    footer .text-sm-right {
+        text-align: left !important;
+    }
+    .sub_footer .copyright {
+        font-size: 13px;
+        text-align: center;
+    }
+    h1 {
+        font-size: 42px;
+    }
+    h3 {
+        font-size: 22px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 16px;
+    }
+    h6 {
+        font-size: 14px;
+    }
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .bg-nav {
+        background-color: #018f98;
+        z-index: 999;
+        box-shadow: 0 5px 10px #000000;
+    }
+    .dropdown-menu {
+        background-color: rgba(0, 0, 0, 0.10);
+        border: none;
+        cursor: pointer;
+    }
+    .dropdown-menu:before {
+        display: none;
+    }
+    .dropdown-item {
+        color: #fff;
+    }
+    .header_containt {
+        position: relative;
+        top: 94px;
+    }
+    .user_name {
+        padding: 10px;
+        text-align: right;
+        color: #018f98;
+    }
+    .sub_navigationdiv {
+        width: 100%;
+        overflow: auto;
+    }
+    .sub_navigation {
+        width: 600px;
+        overflow: auto;
+    }
+    .sub_navigation li {
+        animation: 1s ease-out 0s 1 slideInFromLeft;
+    }
+    .sub_navigation li a {
+        font-size: 14px;
+        padding: 10px 3px;
+        margin: 0 3px;
+    }
+    .media_right_btn {
+        width: 20%;
+    }
+    .pet_pers_detail ul li {
+        display: block;
+        border: none;
+        padding-right: 0px;
+        margin-right: 0px;
+    }
+    .breed_setup_img {
+        height: 170px;
+    }
+    #side_menu {
+        display: none;
+    }
+    .pet_pers_detail ul li span {
+        float: right;
+    }
+    .list_pet_img img {
+        min-height: 150px;
+        max-height: 150px;
+    }
+    .left_section_title h2 {
+        font-size: 23px;
+    }
+    .left_section_trems h2 {
+        font-size: 26px;
+    }
+    .adoption_top {
+        height: 360px;
+    }
+    .postbox_reviewbox {
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+    .code_inner:before {
+        content: '';
+        left: 3px;
+        height: 1px;
+        color: #f1f1f1;
+        letter-spacing: 1.5px;
+        position: relative;
+    }
+    .code_inner:after {
+        content: '';
+        right: 3px;
+        height: 1px;
+        color: #f1f1f1;
+        letter-spacing: 1.5px;
+        position: relative;
+    }
+    .testimonial_section h4 {
+        text-transform: capitalize;
+    }
+    .mat_pet_info ul li {
+        display: block;
+        border: none;
+    }
+    .pet_list_img img {
+        min-height: 250px;
+        max-height: 250px;
+    }
+    .categary ul {
+        display: flex;
+        overflow-x: auto;
+    }
+    .categary ul li {
+        animation: 1s ease-out 0s 1 slideInFromLeft;
+    }
+    .categary ul li a {
+        width: 130px;
+    }
+    .cate_setup_img {
+        height: 200px;
+    }
+    .cate_setup_img img {
+        height: 200px;
+    }
+    .pet_list_details ul li {
+        margin-right: 2%;
+    }
+    .availble_pet_list li {
+        animation: 1s ease-out 0s 1 slideInFromLeft;
+    }
+    .breed_setup_title h4 {
+        display: none;
+    }
+    .suitable_list ul li {
+        margin-right: 5px;
+    }
+    .breed_for_social {
+        position: absolute;
+        top: -260px;
+        width: 98%;
+    }
+    .product-grid5 .product-image5 img {
+        width: 100%;
+        height: auto;
+        min-height: 200px;
+        max-height: 200px;
+    }
+    #masonry {
+        column-count: 2;
+        column-gap: 1em;
+    }
+    .dropdown_blog {
+        animation: 1s ease-out 0s 1 slideInFromLeft;
+    }
+    .blog_box img {
+        min-height: 130px;
+        max-height: 130px;
+    }
+    .dropdown-menu .btn-group {
+        width: 100%;
+    }
+    .dropdown-menu .btn-group .ac_btn {
+        width: 50%;
+        overflow: initial;
+    }
+    .about_mmp {
+        padding-top: 0%;
+    }
+    .features_inner {
+        padding: 0px;
+    }
+    .features_inner ul {
+        display: inline-block;
+        width: 100%;
+    }
+    .features_inner ul li {
+        font-size: 12px;
+        text-transform: capitalize;
+        padding: 0px 0px 10px;
+    }
+    .features_inner ul li:nth-child(2n) {
+        float: right;
+    }
+    .features_inner ul li:nth-child(2n+1) {
+        float: left;
+    }
+    .feature {
+        padding: 10px 0px;
+    }
+    .title_on_banner {
+        bottom: 9px;
+        left: 0;
+    }
+    .white_section .pt-5 {
+        padding-top: 1rem !important;
+    }
+    .contact-info .col-6:nth-child(2n) {
+        padding-left: 8px;
+    }
+    .contact-info .col-6:nth-child(2n+1) {
+        padding-right: 8px;
+    }
+    .about_mmp h6 {
+        font-weight: 400;
+    }
+    .pet-type {
+        display: block;
+        width: 100%;
+        margin-top: 5px;
+    }
+    .intro-banner-vdo-play-btn {
+        right: 0px;
+    }
+    .gradient_box .signup-btn {
+        margin: 15px auto;
+        display: table;
+    }
+    .header_center_title h2 {
+        font-size: 28px;
+    }
+    .header_center_title strong {
+        font-size: .9rem;
+    }
+    .header_center_title h1 {
+        font-size: 30px;
+    }
+    .main_heading-text {
+        width: 100%;
+        display: inline-block;
+    }
+    .main_heading-text .btn_border_green {
+        float: right;
+    }
+    .signup_fields {
+        padding: 5% 2%;
+    }
+    .advantage_sec .low_padding {
+        text-align: center;
+    }
+    .advantage_sec .low_padding p {
+        font-size: 13px;
+    }
+    .score_sec_heading h2 {
+        font-size: 20px;
+        line-height: 29px;
+    }
+    .form-box .btn-success {
+        width: 100%;
+    }
+    .mmp_manager_box {
+        margin-top: 30px;
+    }
+    .payment_amount {
+        width: 100%;
+        display: block;
+    }
+    .code_box {
+        width: 90%;
+    }
+    .wrapper_box_inner h4 {
+        font-size: 15px;
+    }
+    .wrapper_box_inner p {
+        font-size: 14px;
+    }
+    .testi_tags {
+        overflow: auto;
+    }
+    .testi_tags ul {
+        width: 915px;
+    }
+    .sitter_testimonial_top .logo_img img {
+        width: 220px;
+    }
+    .veterinary_containt {
+        top: 75px;
+    }
+    .green_jumbotroon p {
+        font-size: 13px;
+        margin: 0px;
+    }
+    .media_share_review .custom-file-upload {
+        width: auto;
+    }
+    #chkAccept {
+        float: left;
+    }
+    #chkAccept~abbr {
+        float: left;
+        font-size: 13px;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    #features_innerbtnCancel {
+        width: 100%;
+    }
+    .features_inner ul li img {
+        width: 35px;
+    }
+    #dvNotFound img {
+        max-width: 100%;
+    }
+    .instructions b {
+        display: block;
+        padding-bottom: 10px;
+    }
+    .mmp_manager_box {
+        display: table;
+        width: 100%;
+    }
+    .mmp_manager_box .media {
+        display: table-cell;
+        text-align: center;
+    }
+    .mmp_manager_box .media .align-self-start {
+        margin: 0px !important;
+    }
+    .mmp_manager_box .media-body {
+        display: block;
+    }
+    .main_heading {
+        padding: 15px 0px;
+    }
+    #btnCancel {
+        width: 100%;
+    }
+    .select-arrow::before {
+        right: 15px;
+    }
+    .right_section .select-arrow::before {
+        right: 24px;
+    }
+    .media {
+        text-align: center;
+        display: table;
+    }
+    .media img {
+        margin-right: 0rem !important;
+        margin-bottom: 15px;
+    }
+    .wallet_box .media {
+        display: flex;
+    }
+    .payment_history_box .media img {
+        margin-right: 1rem !important;
+    }
+    .payment_history_box .media {
+        text-align: left;
+        display: flex;
+    }
+    #embed_button.media {
+        display: flex;
+    }
+    footer {
+        padding: 6% 0;
+    }
+    .register_sec,
+    .register_sec_inner {
+        text-align: center;
+        padding-bottom: 17px;
+    }
+    .d-sm-block {
+        display: none !important;
+    }
+    .pet_discription_box ul li {
+        width: auto;
+    }
+    .breed_info ul li h6 {
+        min-height: 15px;
+    }
+    #breed_info .header_rightsec {
+        width: 100%;
+    }
+    #breed_info .header_rightsec .header_right_btn {
+        text-align: center;
+    }
+    .right_section {
+        padding: 20px;
+    }
+    .pet_list_sec .filter-bar ul li {
+        float: left;
+    }
+    .pet_list_sec .filter-bar ul li+li {
+        float: right;
+    }
+    #upSortBy {
+        padding: 10px 0px;
+    }
+    .top-banner_box .media {
+        display: flex;
+        text-align: left;
+    }
+    .top-banner_box .media img {
+        margin-right: 0.5rem !important;
+    }
+    .form-box .btn-danger {
+        width: 100% !important;
+    }
+    .sticky .populer_post .media {
+        text-align: left;
+        display: flex;
+    }
+    .sticky .populer_post .media img {
+        margin-right: 1rem !important;
+    }
+}
+
+@media (max-width:1024px) {
+    /*trans*/
+    .trsns-hero {
+        min-height: 430px;
+        max-height: 430px;
+        position: relative;
+        max-width: 100%;
+        min-width: 100%;
+    }
+    .trans1-cta {
+        transform: translateY(4%);
+    }
+    .cta1-pet {
+        padding: 5px 0;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .cta1-pet img {
+        max-width: 50px !important;
+    }
+    .cta-img-cta1 img {
+        max-width: 376px;
+        min-width: 362px;
+        position: relative;
+        bottom: -32px;
+    }
+    /*trans*/
+}
+
+/*new css file*/
+
+@media (max-width:769px) {
+    .add-petN {
+        margin-top: 0px !important;
+    }
+    .select-breed {
+        bottom: 0 !important;
+        position: relative !important;
+        padding: 8px !important;
+    }
+    /*Details pages css*/
+    .Details-contentD h2 {
+        font-size: 25px;
+    }
+    .items-iconsD img {
+        max-width: 20px;
+        min-width: 20px;
+    }
+    .breed-btnD a button {
+        font-size: 14px;
+    }
+    .Deatils-show {
+        height: auto !important;
+    }
+    .switch-button-case {
+        font-size: 10px;
+    }
+    .signup-d-content span {
+        font-size: 20px;
+    }
+    /*Details pages css*/
+    /*trans*/
+    .trsns-hero {
+        min-height: 400px;
+        max-height: 400px;
+        position: relative;
+        max-width: 100%;
+        min-width: 100%;
+    }
+    .sub-bnt-cta input {
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+    .cta-img-cta1 img {
+        max-width: 330px;
+        min-width: 334px;
+        position: relative;
+        bottom: -47px;
+    }
+    .form_trans_img img {
+        max-width: 238px;
+        position: relative;
+        bottom: -256px;
+    }
+    .tream_codition_img img {
+        max-width: 350px;
+    }
+    .trans_counter p {
+        font-size: 16px;
+    }
+    .trans_counter img {
+        max-width: 50px;
+        margin-bottom: 10px;
+    }
+    .signup-form {
+        padding: 35px 44px;
+        position: relative;
+        width: 100% !important;
+    }
+    /*trans*/
+}
+
+/*new css file*/
+
+@media (max-width: 575px) {
+    .form-group-1 {
+        margin-bottom: 0.3rem;
+    }
+    .pet_discription_box ul li img {
+        width: 20px;
+    }
+    .pet_discription_box ul li {
+        font-size: 10px;
+    }
+    .dropdown_blog .dropbtn {
+        padding: 11px 16px;
+    }
+    .left_section_title small {
+        font-size: 12px;
+    }
+    /*.left_section_title { margin-top: 52px; }*/
+    .reg_breeder_box {
+        display: flex;
+        justify-content: center;
+    }
+    .top-banner {
+        height: 400px;
+        background-position: center;
+        background-size: cover;
+    }
+    .top-ft-banner {
+        height: 200px;
+        background-repeat: no-repeat;
+        background-position: top;
+        background-color: #929292;
+    }
+    .hidden_xs {
+        display: none;
+    }
+    .nice-select.open .list {
+        max-height: 400px;
+        overflow-y: auto;
+    }
+    .user_name {
+        padding: 10px;
+        text-align: left;
+        color: #fff;
+    }
+    .testi_slider img {
+        min-height: 200px;
+        max-height: 200px;
+        transition: transform .5s;
+        margin: auto;
+    }
+    .main_heading {
+        font-size: 21px;
+    }
+    .navbar-light .navbar-brand {
+        width: 50%;
+    }
+    .mega-menu {
+        width: 100%;
+        min-height: 200px;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+    .mega-menu ul {
+        width: 100%;
+    }
+    .header_center_title h2 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .header_center_title img {
+        display: none;
+    }
+    .testi_tags ul a:nth-child(even) {
+        display: none;
+    }
+    .header_center_title strong {
+        font-size: 12px;
+    }
+    .breed_setup_img {
+        height: 150px;
+    }
+    .no_ped_img {
+        width: 30%;
+        min-height: 220px;
+        max-height: 220px;
+    }
+    .no_ped_img img {
+        width: 100%;
+        height: 200px;
+    }
+    .adoption_top h2 {
+        font-size: 32px;
+    }
+    .sitter_testimonial_top h2 {
+        font-size: 32px;
+    }
+    .testimonial_section h4 {
+        margin: 5px 0;
+        font-size: 22px !important;
+    }
+    .cate_setup_img {
+        height: 200px;
+    }
+    .cate_setup_img img {
+        height: 200px;
+    }
+    .cate_home_icon {
+        width: 30px;
+        height: 30px;
+    }
+    .cate_home_icon img {
+        width: 20px;
+        height: 20px;
+    }
+    .cate_setup_title small {
+        display: none;
+    }
+    .register_sec h2 {
+        line-height: 0.5rem;
+        font-size: 24px;
+        font-weight: 600;
+        padding: 10px 0px;
+    }
+    .form-check-input {
+        width: 100% !important;
+    }
+    .media_right_btn {
+        width: 30%;
+        margin-top: 10px;
+    }
+    .media_right_btns {
+        widht: 30%;
+        margin-top: 10px;
+    }
+    .features_inner ul li {
+        border: none;
+    }
+    .pet_location {
+        font-size: 11px;
+        padding-left: 0;
+    }
+    .media-body h5 {
+        font-size: 12px !important;
+    }
+    .whitebox {
+        margin: 5px 0;
+    }
+    .icons_box ul li {
+        width: 45%;
+    }
+    .multi_heading_list ul li {
+        width: 40%;
+    }
+    .mmp_find_pet_form {
+        margin-top: 20px;
+    }
+    .top-d {
+        top: 52px;
+    }
+    .breed_type {
+        display: block;
+        width: 100%;
+        margin-top: 5px;
+    }
+    .srch_btn {
+        display: block;
+        width: 100%;
+        margin-top: 5px;
+    }
+    .fb_btn {
+        margin-bottom: 5px;
+    }
+    .reg_box {
+        top: -50px;
+    }
+    .list_pet_img img {
+        min-height: 70px;
+        max-height: 70px;
+    }
+    .list_pet_inner {
+        padding: 5px;
+    }
+    .pet_list_details ul li {
+        margin-right: 5%;
+    }
+    .filter_sidebar {
+        display: none;
+    }
+    .sort_bar {
+        display: none;
+        width: 100%;
+    }
+    .no_ped_img {
+        width: 100%;
+    }
+    .breed_info {
+        width: 100%;
+    }
+    #masonry {
+        column-count: 1;
+        column-gap: 1em;
+    }
+    .pet_list_img img {
+        min-height: 250px;
+        max-height: 250px;
+    }
+    .suitable_list ul li {
+        margin-right: 15px;
+    }
+    .breed_for_social {
+        position: absolute;
+        top: -275px;
+        width: 98%;
+    }
+    div.bhoechie-tab-container {
+        padding: 0 15px;
+        border: none;
+        box-shadow: none;
+    }
+    .suitablity_info {
+        width: 100%;
+    }
+    .pet_img_gallery img {
+        width: 100%;
+        height: 250px;
+    }
+    .product_vedio {
+        height: 250px;
+        width: 100%;
+    }
+    .header_right_btn {
+        font-size: 10px;
+        text-align: center;
+    }
+    .compaired_link ul li {
+        width: 48%;
+    }
+    .selector_title h2 {
+        font-size: 22px;
+        text-transform: uppercase;
+        font-family: Raleway-bold;
+        margin-bottom: 0;
+    }
+    .service_list_img img {
+        min-height: 300px;
+        max-height: 300px;
+        margin: auto;
+        transition: transform .5s;
+    }
+    .product_list_details h6 a {
+        font-size: 12px;
+    }
+    .product_list_details h6 {
+        margin: 15px 0;
+        min-height: 30px;
+        max-height: 30px;
+        overflow: hidden;
+    }
+    .product_ratting {
+        color: #018f98;
+        float: left;
+    }
+    .service_img_gallery img {
+        height: 250px;
+    }
+    .product-grid5 .product-image5 img {
+        width: 100%;
+        height: auto;
+        min-height: 250px;
+        max-height: 250px;
+    }
+    .blog_navinner {
+        display: block;
+        overflow-y: auto;
+        height: 500px;
+    }
+    .column {
+        width: 100%;
+        height: auto;
+    }
+    div.bhoechie-tab-menu div.list-group>a.active::after {
+        border-left: 13px solid transparent;
+        border-right: 13px solid transparent;
+        border-top: 10px solid #018f98;
+        left: 36%;
+        bottom: -24px;
+        top: inherit;
+    }
+    .white_section .list-group-item {
+        padding: .50rem 0.5rem;
+        width: 25%;
+        float: left;
+    }
+    .white_section .list-group {
+        float: left;
+        width: 100%;
+        margin-bottom: 10px;
+        display: inherit;
+    }
+    div.bhoechie-tab-content {
+        padding-left: 0px;
+    }
+    /*new web pages csss*/
+    .select-breed {
+        position: absolute !important;
+        bottom: -33px !important;
+    }
+    .hero-bannerN img {
+        display: block;
+        max-width: 100% !important;
+    }
+    .add-listN a span {
+        margin: 3px 0;
+    }
+    .add-listN a span {
+        box-shadow: 1px 2px 41px 4px rgb(116 115 115 / 10%) !important;
+    }
+    .custom-select {
+        padding: 0.175rem 1.75rem 0.175rem 0.75rem !important;
+        font-size: 0.8rem !important;
+        height: calc(1.5em + 0.75rem + 2px) !important;
+    }
+    .button-filter {
+        height: calc(1em + 0.75rem + 2px) !important;
+        font-size: 16px !important;
+        margin-top: 5px !important;
+    }
+    .section {
+        padding: 15px 0 !important;
+    }
+    .bread-card-img {
+        height: 247px !important;
+    }
+    .paddingB-0 {
+        padding-right: 15px !important;
+    }
+    .still {
+        padding: 8px 26px !important;
+    }
+    .still h2 {
+        font-size: 16px !important;
+    }
+    .still p {
+        font-size: 12px !important;
+    }
+    .testimonialN {
+        height: 327px !important;
+    }
+    .col-padding {
+        padding: 0 5px !important;
+    }
+    .still-form {
+        padding: 20px !important;
+    }
+    .still-form p {
+        padding-bottom: 0 !important;
+    }
+    /*new web pages csss*/
+    /*details pages  css*/
+    .Deatils-show {
+        height: auto !important;
+    }
+    .Details-contentD h2 {
+        font-size: 20px !important;
+    }
+    .items-iconsD img {
+        max-width: 15px !important;
+        min-width: 15px !important;
+    }
+    .Details-iconsD {
+        margin: 5px 0px !important;
+    }
+    .breed-btnD a button {
+        font-size: 12px;
+    }
+    .breed-btnD a button img {
+        max-width: 13px;
+        min-width: 13px;
+    }
+    .Details-listing img {
+        max-width: 35px;
+        min-height: 35px;
+        min-width: 35px;
+        max-height: 35px;
+    }
+    .Details-listingP img {
+        max-width: 35px;
+        min-height: 35px;
+        min-width: 35px;
+        max-height: 35px;
+        object-fit: cover;
+        margin: 5px;
+    }
+    .switch-button-case {
+        font-size: 10px;
+    }
+    .Calcium-btn label {
+        font-size: 11px;
+    }
+    .custom-tabD {
+        font-size: 18px !important;
+    }
+    .custom-tabD.active {
+        font-size: 18px !important;
+    }
+    .breed-info-img-content img {
+        max-width: 70px;
+        min-width: 70px;
+    }
+    .breed-info-img-content p {
+        font-size: 11px;
+        margin-bottom: 8px;
+    }
+    .heading-Pet-parent {
+        padding: 15px 0;
+    }
+    .Pet-parent-kit-content {
+        padding-top: 18px;
+    }
+    .Details-ListDP ul li {
+        font-size: 13px;
+    }
+    .Pet-parent-kit-content p {
+        font-size: 14px;
+    }
+    .card-DetailsD {
+        padding-left: 0px !important;
+    }
+    .faq-icon button {
+        font-size: 11px;
+    }
+    .custom-navD {
+        padding: 0 !important;
+    }
+    .social-m-btnD span {
+        font-size: 12px;
+    }
+    .social-m-btnD button {
+        width: 100% !important;
+    }
+    .signup-form {
+        box-shadow: 1px 1px 23px 0px rgb(106 104 104 / 29%);
+        padding: 25px !important;
+        background: #ffffff;
+        margin: 15px 0;
+        border-radius: 6px;
+        backdrop-filter: blur(27px)
+    }
+    .signup-form input {
+        border: 1px solid #f7f3f3;
+    }
+    .form-sign-bg {
+        box-shadow: none !important;
+        background: none !important;
+        height: auto !important;
+    }
+    .signup-body {
+        background-color: none !important;
+        height: 100vh !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url('../image/login/form-bg.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .signup-form input {
+        background: #fff;
+        padding: 8px 8px;
+        font-size: 12px;
+    }
+    /*input[type=text]{border:1px solid #f7f3f3;}*/
+    .popup-form-Slide2 input {
+        border-bottom: 1px solid#b8b4b491 !important;
+    }
+    /*  input [type=password]{border:1px solid #f7f3f3;}
+     input[type=search]{border:1px solid #f7f3f3;}*/
+    .signup-form select {
+        background: #fff;
+        padding: 8px 8px;
+        border: 1px solid #f7f3f3;
+        font-size: 12px !important;
+        height: 35px;
+    }
+    .country-code-cd button {
+        background: #fff;
+    }
+    .otp-send-code span {
+        color: #000000a1;
+    }
+    .Privacy-policyD span {
+        color: #727272;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .row-d-p {
+        padding-right: 0 !important;
+    }
+    .Pirvi-bds label {
+        color: #000;
+    }
+    .already-D span {
+        color: #dddddd;
+        font-size: 12px;
+    }
+    /*filter edit 14.10.2022*/
+    .mobile-filer-sn {
+        visibility: inherit !important;
+    }
+    /*filter edit 14.10.2022*/
+    /*details pages css*/
+    .Booking-formN {
+        padding-bottom: 0px !important;
+        padding-top: 0px !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+    .awesome {
+        color: #313131;
+        font-size: 45px;
+        font-weight: bold;
+        font-size: 14px;
+        margin-top: 3px;
+        margin-left: 8px;
+        position: absolute;
+        -webkit-animation: colorchange 3s infinite alternate;
+    }
+    .booking-formN-img img {
+        max-width: 258px !important;
+    }
+    .card_images_booking img {
+        max-width: 272px !important;
+    }
+    .booking-form-header:after {
+        opacity: 0.1;
+    }
+    .booking-form-header:before {
+        opacity: 0.1;
+    }
+    .booking-formN-Border {
+        padding: 2px 18px !important;
+    }
+    .Booking-formN label {
+        color: #495057;
+        font-size: 13px !important;
+    }
+    .cash_date_form_name {
+        padding: 10px 12px !important;
+    }
+    .cash_date_form_name span {
+        font-size: 14px !important;
+    }
+    .Booking-formN h1 {
+        text-align: center;
+        color: #04a4c3;
+        font-size: 24px !important;
+        padding: 14px 0 !important;
+    }
+    .Booking-formN span {
+        font-size: 13px !important;
+    }
+    .booking-form-header img {
+        max-width: 187px !important;
+    }
+    .otp-sectionN input {
+        width: 100%;
+    }
+    .veri-re {
+        margin-top: 0px;
+        margin-left: -8px;
+    }
+    .ace-nav {
+        float: right !important;
+    }
+    .tab-sign-menu .nav-link {
+        font-size: 11px !important;
+        font-weight: bold;
+    }
+    /*details pages css*/
+    /* old details pages css*/
+    .sticky_header h2 {
+        font-size: 14px;
+    }
+    /*  old details pages css*/
+    /*transport new*/
+    .trsns-hero {
+        position: relative;
+        /*background-image:url('../image/trans/mobile-banner.webp');*/
+        background: #ff00000a;
+        max-width: 100%;
+        min-width: 100%;
+        min-height: 459px;
+        max-height: 459px;
+        object-fit: cover;
+        background-size: cover;
+    }
+    .mobile-first-view {
+        height: 460px;
+    }
+    .type_of_transpotation-img {
+        background: #EB9C0A;
+        width: 150px;
+        height: 150px;
+        padding: 10px;
+        border-radius: 50%;
+        margin: 5px 0;
+    }
+    .type_of_transpotation_bor {
+        width: 130px;
+        height: 130px;
+        background: transparent;
+        border-radius: 50%;
+        border: 2px solid#fff;
+        border-style: dotted;
+        padding: 8px;
+    }
+    .type_of_transpotation_content {
+        width: 110px;
+        height: 110px;
+        background: #fff;
+        border-radius: 50%;
+    }
+    .type_of_transpotation_content h4 {
+        font-size: 12px;
+    }
+    .trans_po_padding {
+        padding-top: 0px;
+    }
+    .trsn-card h4 {
+        font-size: 11px;
+        margin-top: 10px;
+    }
+    .trsn-card img {
+        max-width: 42px;
+    }
+    .trsn-card {
+        height: 120px;
+        margin: 5px 0;
+    }
+    .how_it_work_padding {
+        margin: 45px 0;
+    }
+    .trans_counter {
+        margin-bottom: 10px;
+    }
+    .trans_counter p {
+        font-size: 13px;
+    }
+    .trans_counter h5 {
+        font-size: 22px !important;
+    }
+    .trans_counter img {
+        max-width: 40px;
+        margin-bottom: 10px;
+    }
+    .tream_codition_img img {
+        max-width: 295px;
+    }
+    .Tream_faq-main-button {
+        color: #018F98 !important;
+        font-weight: bold;
+        text-align: left;
+        font-size: 14px;
+        padding-left: 0;
+        word-break: break-all;
+    }
+    .world-count span {
+        display: inline-block;
+        padding: 12 23px;
+        font-size: 16px;
+    }
+    .form_kg_work label {
+        padding: 11px 15px;
+        font-size: 11px !important;
+    }
+    .trans_input_form {
+        font-size: 11px !important;
+    }
+    .trasn_form_contact h3 {
+        font-size: 20px;
+        margin-bottom: 2px;
+    }
+    .trans-heading h2 {
+        color: #018F98;
+        font-size: 21px;
+        padding-bottom: 10px;
+    }
+    .type_of_transpotation {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .radio_trans_form label {
+        font-size: 12px;
+    }
+    .signup-form h2 {
+        color: #32b5ce;
+    }
+    .signup-form h4 {
+        font-size: 13px;
+        color: #f5f5f5;
+    }
+    .top-content-otp button {
+        position: absolute;
+        top: 10px !important;
+        right: 20px !important;
+    }
+    .already-D span a {
+        font-size: 12px;
+        font-weight: 500;
+        outline: none;
+        color: #32b5ce;
+    }
+    /*transport new*/
+    /*popup css design*/
+    .form_slide_h1 h1 {
+        font-size: 14px;
+    }
+    /*popup css design*/
+}
+
+@media (min-width: 401px) and (max-width: 450px) {
+    .availble_pet_list li {
+        margin-right: 8px;
+    }
+    .ace-nav {
+        float: right !important;
+    }
+}
+
+@media(max-width:430px) {
+    #embed_button .media_right_btn {
+        width: 50%;
+        margin: 15px auto;
+        float: none;
+        display: block;
+        padding: 8px 0;
+    }
+    /*transpotation*/
+    .form_trans_img img {
+        max-width: 238px;
+        position: relative;
+        bottom: -24px;
+        display: none;
+    }
+    .hero-bannerN {
+        position: relative;
+        max-height: 230px;
+        top: 50px;
+        min-height: 316px;
+    }
+    /*transpotation*/
+}
+
+@media (max-width:440px) {
+    .instructions p {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 1.2rem;
+    }
+    .right_section h4 {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    /*modal-popup design*/
+    .sticky_header h2 {
+        font-size: 14px;
+    }
+    /*slide1*/
+    .content-slide1-second {
+        padding: 50px;
+    }
+    .content-slide1-second h2 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+    .content-slide1-second p {
+        font-size: 14px;
+        padding: 38px 0;
+        margin-bottom: 0;
+        color: #898989;
+    }
+    .icon-card-popup img {
+        max-width: 30px;
+        min-width: 30px;
+    }
+    .icon-card-popup span {
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 11px;
+        padding-top: 3px;
+    }
+    .icon-card-popup {
+        width: 62px;
+        margin: 0 5px;
+    }
+    .popup-form-Slide2 {
+        margin: 3px 0;
+    }
+    .slide2-second-option h4 {
+        font-size: 18px;
+        padding: 6px 0;
+    }
+    .content-slide1-second span {
+        padding: 10px 38px;
+        border-radius: 3px;
+        color: #fff;
+        background: #1a73e8;
+        transition: 0.5s ease-in-out;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .content-slide2-second span {
+        padding: 10px 38px;
+        border-radius: 4px;
+    }
+    .content-slide2-second {
+        padding: 23px 44px;
+    }
+    .card-cotent-body ul li {
+        font-size: 9px;
+    }
+    .card-cotent-body ul li img {
+        padding-bottom: 0px;
+    }
+    .pirce-modal-popup h4 {
+        padding-top: 11px;
+    }
+    .time-slot h6 {
+        font-size: 8px;
+    }
+    .slide2-top-content p {
+        font-size: 13px;
+    }
+    .slide2-top-content h2 {
+        font-size: 19px;
+    }
+    .card-cotent-body ul {
+        padding: 15px 9px;
+    }
+    /*slide1*/
+    /*modal-popup design*/
+}
+
+@media (max-width: 413px) {
+    .availble_pet_list li {
+        min-width: 100%;
+    }
+    .features_inner ul li {
+        width: 100%;
+    }
+    .white_section .col-6 {
+        width: 100%;
+        flex: initial;
+        max-width: 100%;
+    }
+    .contact-info .col-6:nth-child(2n) {
+        padding-left: 15px;
+    }
+    .contact-info .col-6:nth-child(2n+1) {
+        padding-right: 15px;
+    }
+    .sitter_testimonial_top h2 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 374px) {
+    .breed_setup_title h3 {
+        font-size: 14px;
+    }
+    .social-nav li {
+        margin: 0px 0 0 6px;
+    }
+    .gradient_text {
+        font-size: 20px;
+    }
+    .copyright {
+        font-size: 11px;
+    }
+    .register_sec h2 {
+        font-size: 21px;
+    }
+    .jumbo_down ul li {
+        font-size: 12px;
+    }
+    .sticky_header h2 {
+        font-size: 14px;
+    }
+    .reg_breeder_box #embed_button {
+        display: table;
+    }
+    #embed_button .media_right_btn {
+        width: 50%;
+        margin: 15px auto;
+        float: none;
+        display: block;
+        padding: 8px 0;
+    }
+    .pet_list_sec .filter-bar #sorting ul li {
+        width: 100%;
+    }
+    .ace-nav {
+        float: right !important;
+    }
+}
+
+@media(max-width: 376px) {
+    /*new css style*/
+    .add-petN {
+        margin-top: 50px !important;
+    }
+    /*new css style*/
+}
+
+@media(max-width:375px) {
+    .card-cotent-body ul li {
+        font-size: 9px;
+        padding: 2px 0;
+    }
+    .pirce-modal-popup h4 {
+        font-size: 20px;
+        padding-top: 11px;
+    }
+    .time-slot {
+        background: white;
+        padding: 13px 7px;
+    }
+    .hero-bannerN {
+        position: relative;
+        max-height: 230px;
+        top: 50px;
+        min-height: 240px;
+    }
+    .card-icon-body img {
+        max-width: 39px;
+    }
+    /*slide2*/
+    /*modal popup design*/
+}
+
+@media(max-width:321px) {
+    /*new css style*/
+    .add-petN {
+        margin-top: 20px !important;
+    }
+    /*new css style*/
+    /*details page*/
+    .social-m-btnD span {
+        font-size: 10px;
+    }
+    .social-m-btnD img {
+        max-width: 20px;
+    }
+    .country-code-cd button {
+        font-size: 12px;
+    }
+    .otp-sectionN span input {
+        padding: 5px 1px !important;
+    }
+    /*dsetails page*/
+}
+
+@media(max-width:320px) {}
