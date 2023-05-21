@@ -55,7 +55,7 @@
 /*color Variables code*/
 
 :root {
-    --bs-theme: #10c77a;
+    --bs-theme: #008080;
 }
 
 /*color Variables code*/
@@ -67,7 +67,7 @@
 }
 
 .theme-colorN {
-    background-color: #10c77a;
+    background-color: #09f3f3;
 }
 
 /*color & bg color class*/
@@ -105,7 +105,7 @@ body {
 }
 
 ::-moz-scrollbar-thumb {
-    background: #10c77a;
+    background: #018f98;
 }
 
 ::-moz-scrollbar-thumb:hover {
@@ -336,7 +336,7 @@ select {
 }
 
 .small_contbox h6 span {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .book_btn_hover {
@@ -523,7 +523,7 @@ a {
     font-size: 14px;
     font-weight: 500;
     outline: none;
-    color: #10c77a;
+    color: #32b5ce;
 }
 
 a:hover {
@@ -541,7 +541,7 @@ a:hover {
 }
 
 .white-box-bg {
-    background-color: #10c77a;
+    background-color: #0f3f5f;
 }
 
 .clhight {
@@ -554,17 +554,17 @@ a:hover {
 }
 
 .btn-success {
-    background-color: #10c77a;
+    background-color: #018f98;
     border: none;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
     margin: 2% 0;
-    border: 2px solid #10c77a !important;
+    border: 2px solid #018f98 !important;
 }
 
 .book_btn {
-    background-color: #10c77a;
+    background-color: #0087ba;
     border: none;
     font-size: 14px;
     font-weight: 600;
@@ -575,8 +575,8 @@ a:hover {
 
 .btn_border_green {
     background-color: transparent;
-    border: 2px solid #10c77a;
-    color: #10c77a;
+    border: 2px solid #018f98;
+    color: #018f98;
     font-size: 10px;
     font-weight: 600;
     margin: 2% 0;
@@ -584,8 +584,8 @@ a:hover {
 }
 
 .btn_border_green:hover {
-    background-color: #10c77a;
-    border: 2px solid #10c77a;
+    background-color: #018f98;
+    border: 2px solid #018f98;
     color: #fff !important;
 }
 
@@ -609,8 +609,8 @@ a:hover {
 .btn-success:active {
     outline: none !important;
     box-shadow: none !important;
-    background-color: #10c77a !important;
-    border: 2px solid #10c77a;
+    background-color: #018f98 !important;
+    border: 2px solid #018f98;
 }
 
 .btn-success:not(:disabled):not(.disabled).active,
@@ -618,8 +618,8 @@ a:hover {
 .show>.btn-success.dropdown-toggle {
     outline: none !important;
     box-shadow: none !important;
-    background-color: #10c77a;
-    border: 2px solid #10c77a;
+    background-color: #018f98;
+    border: 2px solid #018f98;
 }
 
 .btn-success:hover {
@@ -650,12 +650,12 @@ h2 {
 .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
     border-color: #dee2e6;
 }
 
 .page-item .page-link {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .page-link:focus {
@@ -665,13 +665,13 @@ h2 {
 }
 
 .bg_green {
-    background-color: #10c77a !important;
+    background-color: #018f98 !important;
     color: #fff;
 }
 
 .gradient_box {
     color: #fff;
-    background-image: linear-gradient(95deg, #0087ba, #10c77a);
+    background-image: linear-gradient(95deg, #0087ba, #018f98);
     padding: 2%;
     overflow: hidden;
     font-size: 14px;
@@ -760,12 +760,12 @@ h2 {
 
 .sub_navigation .active,
 .sub_navigation li:hover {
-    border-bottom: 5px solid #10c77a;
+    border-bottom: 5px solid #018f98;
 }
 
 .sub_navigation .active a,
 .sub_navigation li:hover {
-    color: #10c77a;
+    color: #018f98;
     text-shadow: 1px 1px 2px #909090;
 }
 
@@ -782,12 +782,12 @@ h2 {
 }
 
 .top-banner_box .media-body p strong {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .media_right_btn {
     width: 12%;
-    background-color: #10c77a;
+    background-color: #018f98;
     text-align: center;
     color: #fff;
     padding: 1%;
@@ -803,7 +803,7 @@ h2 {
 
 .media_right_btns {
     width: 12%;
-    background-color: #10c77a;
+    background-color: #018f98;
     text-align: center;
     color: #fff;
     padding: 7px 15px;
@@ -902,7 +902,7 @@ h2 {
 
 .tabbable-line>.nav-tabs>li.open,
 .tabbable-line>.nav-tabs>li:hover {
-    border-bottom: 4px solid #10c77a5c;
+    border-bottom: 4px solid #018f985c;
 }
 
 .tabbable-line>.nav-tabs>li.open>a,
@@ -923,7 +923,7 @@ h2 {
 }
 
 .tabbable-line>.nav-tabs>li.active {
-    border-bottom: 4px solid #10c77a;
+    border-bottom: 4px solid #018f98;
     position: relative;
 }
 
@@ -971,7 +971,7 @@ h2 {
 }
 
 .features_inner ul li span {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .slick-slide {
@@ -1087,7 +1087,7 @@ h2 {
 }
 
 .blog_nav {
-    background-color: #10c77a;
+    background-color: #018f98;
     z-index: 99;
     box-shadow: 0px 0px 3px #ccc;
     margin-top: -2px;
@@ -1095,7 +1095,7 @@ h2 {
 
 .blog_navbar {
     overflow: hidden;
-    background-color: #10c77a;
+    background-color: #018f98;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     overflow-x: auto;
@@ -1400,7 +1400,7 @@ h2 {
 .testi_tags ul a li {
     display: inline-block;
     padding: 5px 5px;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     background-color: #fff;
     border-radius: 13px;
     margin: 3px;
@@ -1408,12 +1408,12 @@ h2 {
 
 .testi_tags ul a li:hover {
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .testi_tags ul a .active {
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .testi_slider {
@@ -1457,12 +1457,12 @@ h2 {
 
 .postbox_reviewbox .media-body p i {
     font-size: 14px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .testi_inner_btn {
     border: 0;
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
     width: 100%;
     padding: 3%;
@@ -1475,7 +1475,7 @@ h2 {
 
 .green_jumbotroon {
     width: 100%;
-    background: #10c77a;
+    background: #09939b;
     border-radius: 5px;
     padding: 20px;
     margin: 25px 0;
@@ -1501,7 +1501,7 @@ h2 {
 .jumbo_down h4 {
     font-size: 18px;
     font-weight: bold;
-    color: #10c77a;
+    color: #09939b;
 }
 
 .jumbo_down p {
@@ -1527,7 +1527,7 @@ h2 {
 .jumbo_down ul li:before {
     content: "\f101";
     font-family: FontAwesome;
-    color: #10c77a;
+    color: #018f98;
     margin-right: 5px;
 }
 
@@ -1576,10 +1576,10 @@ div.bhoechie-tab-menu div.list-group>a:last-child {
 div.bhoechie-tab-menu div.list-group>a.active,
 div.bhoechie-tab-menu div.list-group>a.active .glyphicon,
 div.bhoechie-tab-menu div.list-group>a.active .fa {
-    background-color: #10c77a;
+    background-color: #018f98;
     background-image: #5A55A3;
     color: #ffffff;
-    border-color: #10c77a;
+    border-color: #018f98;
 }
 
 div.bhoechie-tab-menu div.list-group>a.active:after {
@@ -1591,7 +1591,7 @@ div.bhoechie-tab-menu div.list-group>a.active:after {
     border-left: 0;
     border-bottom: 13px solid transparent;
     border-top: 13px solid transparent;
-    border-left: 10px solid #10c77a;
+    border-left: 10px solid #018f98;
 }
 
 div.bhoechie-tab-content {
@@ -1627,18 +1627,18 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
     padding: 15px;
     width: 100%;
     border: 0;
-    border: 2px solid #10c77a;
-    background-color: #10c77a;
+    border: 2px solid #018f98;
+    background-color: #018f98;
     margin-bottom: 5px;
 }
 
 .signin_lg_btn {
-    color: #10c77a;
+    color: #018f98;
     text-align: center;
     padding: 15px;
     width: 100%;
     border: 0;
-    border: 2px solid #10c77a;
+    border: 2px solid #018f98;
     margin-bottom: 5px;
 }
 
@@ -1713,7 +1713,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 .banifits_sidebar h4 {
     background-color: transparent;
     padding: 4%;
-    color: #10c77a;
+    color: #018f98;
     font-size: 22px;
     text-align: left;
     font-family: 'Raleway';
@@ -1808,7 +1808,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active) {
 }
 
 .view_all_box {
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 60px 0;
 }
 
@@ -1932,7 +1932,7 @@ header {
 }
 
 .ac_btn:hover {
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .dropdown-menu:before {
@@ -1973,8 +1973,8 @@ header {
 
 .contact_inquirybox .inquiry_btn {
     background-color: #fff;
-    border: 2px solid #10c77a;
-    color: #10c77a;
+    border: 2px solid #018f98;
+    color: #018f98;
     padding: 10px 25px;
 }
 
@@ -1996,14 +1996,14 @@ header {
 }
 
 .pop_left h4 {
-    color: #10c77a;
+    color: #018f98;
     text-align: center;
     font-family: 'Raleway';
     font-weight: 700;
 }
 
 .pop_left h6 {
-    color: #10c77a;
+    color: #018f98;
     text-align: center;
     font-family: 'Raleway';
     font-weight: 700;
@@ -2047,11 +2047,11 @@ header {
 .pop_list li .pop_bollets {
     border-radius: 50%;
     display: inline-table;
-    border: 2px solid #10c77a;
+    border: 2px solid #018f98;
     text-align: center;
     margin-right: 20px;
     padding: 1px 5px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .pop_list li .poplist_containt {
@@ -2067,7 +2067,7 @@ header {
 }
 
 .pop_right h4 {
-    color: #10c77a;
+    color: #018f98;
     text-align: center;
     font-family: 'Raleway';
     font-weight: 700;
@@ -2081,7 +2081,7 @@ header {
 .footer_containtbox ul a li {
     display: inline-block;
     margin-right: 15px;
-    color: #10c77a;
+    color: #018f98;
     font-size: 12px;
     font-weight: normal;
 }
@@ -2116,7 +2116,7 @@ footer ul li a {
 }
 
 footer ul li a:hover {
-    color: #10c77a !important;
+    color: #018f98 !important;
 }
 
 .sub_footer {
@@ -2453,7 +2453,7 @@ footer ul li a:hover {
     color: #ffffff;
     outline: none;
     font-size: 14px;
-    background-color: #10c77a;
+    background-color: #018f98;
     font-weight: 600;
     cursor: pointer;
 }
@@ -2470,7 +2470,7 @@ footer ul li a:hover {
     color: #ffffff;
     outline: none;
     font-size: 14px;
-    background-color: #10c77a;
+    background-color: #018f98;
     font-weight: 600;
     cursor: pointer;
 }
@@ -2502,14 +2502,14 @@ footer ul li a:hover {
 
 .feature_menu ul li a:hover {
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 5px 20px;
     border-radius: 3px;
 }
 
 .filter_sidebar {
     background-color: #fff;
-    border-top: 4px solid #10c77a;
+    border-top: 4px solid #018f98;
 }
 
 .border-box {
@@ -2522,7 +2522,7 @@ footer ul li a:hover {
 
 .filter-type h4 span {
     font-size: 14px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .filter-type h4 img {
@@ -2540,14 +2540,14 @@ footer ul li a:hover {
     text-decoration: none;
     font-size: 10px;
     text-transform: capitalize;
-    color: #10c77a;
+    color: #018f98;
     outline: none;
 }
 
 .spacific_links a li {
     display: inline-block;
     padding: 5px 14px;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     background-color: #fff;
     border-radius: 13px;
     margin: 3px;
@@ -2555,7 +2555,7 @@ footer ul li a:hover {
 
 .spacific_links a li:hover {
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .scroll_box {
@@ -2765,7 +2765,7 @@ input[type=radio]:not(old)+label {
 }
 
 .counts h2 {
-    color: #10c77a;
+    color: #018f98;
     font-weight: 600;
     margin: 0;
 }
@@ -2824,7 +2824,7 @@ input[type=radio]:not(old)+label {
     position: absolute;
     top: -6px;
     right: -10px;
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 2px;
     border-radius: 50%;
     color: #fff;
@@ -2859,7 +2859,7 @@ input[type=radio]:not(old)+label {
     width: 50%;
     text-align: center;
     font-weight: bold;
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 10px;
     font-size: 14px;
     text-transform: uppercase;
@@ -2869,7 +2869,7 @@ input[type=radio]:not(old)+label {
 .mobile_filter_open {
     border-right: 1px solid #ccc;
     text-transform: uppercase;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 li.mobile_filter_open:hover {
@@ -2903,7 +2903,7 @@ li.mobile_filter_open:hover {
 }
 
 .sorting_option ul .active {
-    border-left: 3px solid #10c77a !important;
+    border-left: 3px solid #018f98 !important;
     color: #fff;
 }
 
@@ -2972,7 +2972,7 @@ li.mobile_filter_open:hover {
     vertical-align: unset;
     position: absolute;
     top: 8px;
-    background: linear-gradient(107deg, #10c77a, #52a853);
+    background: linear-gradient(107deg, #018f98, #52a853);
 }
 
 .kci_tag:focus {
@@ -2989,7 +2989,7 @@ li.mobile_filter_open:hover {
     text-transform: uppercase;
     vertical-align: unset;
     top: 8px;
-    background: linear-gradient(107deg, #10c77a, #52a853);
+    background: linear-gradient(107deg, #018f98, #52a853);
 }
 
 .featured_price {
@@ -3025,7 +3025,7 @@ li.mobile_filter_open:hover {
 }
 
 .champ_tag span {
-    color: #10c77a;
+    color: #018f98;
     font-weight: 600;
     background-color: #eee;
     padding: 4px 0;
@@ -3037,7 +3037,7 @@ li.mobile_filter_open:hover {
 }
 
 .champ_tag span i {
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
     padding: 5px;
 }
@@ -3098,7 +3098,7 @@ li.mobile_filter_open:hover {
 
 .sticky_header .wishlist_btn:hover {
     background-color: #ffecb3;
-    color: #10c77a;
+    color: #018f98;
     border-radius: 3px;
 }
 
@@ -3123,7 +3123,7 @@ li.mobile_filter_open:hover {
 }
 
 .breed_info h4 {
-    color: #10c77a !important;
+    color: #018f98 !important;
     font-size: 20px !important;
 }
 
@@ -3172,7 +3172,7 @@ li.mobile_filter_open:hover {
 }
 
 .header_right_btn {
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff !important;
     padding: 11px 19px;
     display: inline-block;
@@ -3181,7 +3181,7 @@ li.mobile_filter_open:hover {
 }
 
 .header_right_color a {
-    background-color: #10c77a !important;
+    background-color: #018f98 !important;
     margin: 10px 0px;
 }
 
@@ -3205,7 +3205,7 @@ li.mobile_filter_open:hover {
 }
 
 .wishlist_link:hover {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .pet_img_gallery {
@@ -3282,7 +3282,7 @@ li.mobile_filter_open:hover {
 }
 
 .greenbox {
-    background-color: #10c77a;
+    background-color: #018f98;
     margin: 1rem 0;
     border-radius: 3px;
     padding: 2%;
@@ -3395,7 +3395,7 @@ li.mobile_filter_open:hover {
 }
 
 .login_right_box .media-body h5 span {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .login_right_box .media-body small {
@@ -3434,7 +3434,7 @@ li.mobile_filter_open:hover {
     font-size: 20px;
     font-family: 'Raleway';
     font-weight: 700;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .pet_price small {
@@ -3495,7 +3495,7 @@ li.mobile_filter_open:hover {
     top: 5px;
     width: 5px;
     height: 10px;
-    border: solid #10c77a;
+    border: solid #018f98;
     border-width: 0 3px 3px 0;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
@@ -3524,7 +3524,7 @@ li.mobile_filter_open:hover {
 .cancel_policy {
     padding: 2%;
     position: relative;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .cancel_policy:hover {
@@ -3559,7 +3559,7 @@ li.mobile_filter_open:hover {
 }
 
 .compaire_btn small {
-    color: #10c77a;
+    color: #018f98;
     font-size: 12px;
     font-weight: bold;
     text-align: center;
@@ -3570,7 +3570,7 @@ li.mobile_filter_open:hover {
     top: 0px;
     right: 0px;
     width: 20px;
-    background-color: #10c77a;
+    background-color: #018f98;
     border: 3px solid #fff;
     border-radius: 50%;
     font-size: 10px;
@@ -3685,7 +3685,7 @@ li.mobile_filter_open:hover {
 }
 
 .whitebox h3 {
-    color: #10c77a;
+    color: #018f98;
     font-size: 18px;
 }
 
@@ -3698,7 +3698,7 @@ li.mobile_filter_open:hover {
 .whitebox .tags ul li {
     display: inline-block;
     padding: 0px 10px;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     background-color: #fff;
     border-radius: 13px;
     margin: 3px;
@@ -3764,7 +3764,7 @@ li.mobile_filter_open:hover {
 .progress-bars:after {
     position: absolute;
     content: "";
-    border: solid 5px #10c77a;
+    border: solid 5px #018f98;
     border-width: 5px 5px 5px 5px;
     width: 60px;
     height: 60px;
@@ -3828,7 +3828,7 @@ li.mobile_filter_open:hover {
     border-radius: 3px;
     overflow: hidden;
     position: relative;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .right_mcol ul li a img:hover {
@@ -3991,7 +3991,7 @@ li.mobile_filter_open:hover {
 
 .product-grid5 .social li a:hover {
     color: #fff;
-    background: #10c77a
+    background: #018f98
 }
 
 .product-grid5 .select-options {
@@ -4015,7 +4015,7 @@ li.mobile_filter_open:hover {
 
 .product-grid5 .select-options:hover {
     color: #fff;
-    background-color: #10c77a;
+    background-color: #018f98;
     text-decoration: none
 }
 
@@ -4043,7 +4043,7 @@ li.mobile_filter_open:hover {
 }
 
 .product-grid5 .title a:hover {
-    color: #10c77a
+    color: #018f98
 }
 
 .product-grid5 .price {
@@ -4245,7 +4245,7 @@ li.mobile_filter_open:hover {
 }
 
 .service_img_gallery .carousel-indicators .active {
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .service_img_gallery img {
@@ -4391,14 +4391,14 @@ li.mobile_filter_open:hover {
     font-size: 18px;
     font-family: 'Raleway';
     font-weight: 700;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .full_list_view .media-body .price {
     font-size: 18px;
     font-family: 'Raleway';
     font-weight: 700;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .list_acction_btn {
@@ -4418,7 +4418,7 @@ li.mobile_filter_open:hover {
 }
 
 .right_btn {
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
 }
 
@@ -4434,7 +4434,7 @@ li.mobile_filter_open:hover {
 
 .shadual_time ul li {
     display: inline-block;
-    border: 2px solid #10c77a;
+    border: 2px solid #018f98;
     padding: 10px;
     margin-bottom: 5px;
 }
@@ -4458,7 +4458,7 @@ li.mobile_filter_open:hover {
 }
 
 .doc_info .media-body h4 {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .doc_info .media-body h5 {
@@ -4551,7 +4551,7 @@ li.mobile_filter_open:hover {
 .package_outerbox {
     position: absolute;
     right: 0;
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 10px;
     font-family: 'Raleway';
     font-weight: 700;
@@ -4989,7 +4989,7 @@ li.mobile_filter_open:hover {
 }
 
 .qus_inner h4 span {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .qus_inner ul {
@@ -5015,7 +5015,7 @@ li.mobile_filter_open:hover {
 
 .qus_inner li:hover {
     display: inline-block;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     text-align: center;
     border-radius: 3px;
     padding: 15px 0px;
@@ -5025,7 +5025,7 @@ li.mobile_filter_open:hover {
 }
 
 .qus_inner ul .active {
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     box-shadow: 0 0 5px #8a8a8a;
     position: relative;
 }
@@ -5038,7 +5038,7 @@ li.mobile_filter_open:hover {
     font-size: 12px;
     top: 0px;
     color: #ffffff;
-    background-color: #10c77a;
+    background-color: #09939b;
     padding: 2px 5px;
 }
 
@@ -5306,7 +5306,7 @@ li.mobile_filter_open:hover {
 }
 
 .product_ratting {
-    color: #10c77a;
+    color: #018f98;
     float: right;
 }
 
@@ -5348,7 +5348,7 @@ li.mobile_filter_open:hover {
     color: #fff;
     font-size: 22px;
     font-weight: 600;
-    background-color: #10c77a;
+    background-color: #018f98;
     visibility: hidden;
     width: 100%;
     opacity: 0;
@@ -5397,7 +5397,7 @@ li.mobile_filter_open:hover {
 }
 
 .product_detail h4 {
-    color: #10c77a;
+    color: #018f98;
     font-family: 'Raleway';
     font-weight: 700;
 }
@@ -5415,16 +5415,16 @@ li.mobile_filter_open:hover {
 
 .product_size ul li {
     display: inline-block;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     padding: 5px;
     font-size: 12px;
     font-weight: 600;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .product_size ul .active {
-    background-color: #10c77a;
-    border: 1px solid #10c77a;
+    background-color: #018f98;
+    border: 1px solid #018f98;
     color: #fff;
 }
 
@@ -5489,7 +5489,7 @@ li.mobile_filter_open:hover {
 /*.cardbox_content ul{list-style: none; padding: 0;text-align: left;}
 .cardbox_content ul li{display: inline-block;border-right: 1px solid #ccc; padding: 0 5px;}
 .cardbox_content ul li:last-child {border-right: 0px;}
-.cardbox_content h4{font-size: 14px; font-family: 'Raleway'; font-weight:700; color:#10c77a; text-transform:uppercase;}*/
+.cardbox_content h4{font-size: 14px; font-family: 'Raleway'; font-weight:700; color:#018f98; text-transform:uppercase;}*/
 
 .profile_pic .pro_img {
     position: relative;
@@ -5518,7 +5518,7 @@ li.mobile_filter_open:hover {
     padding: 2% 0;
 }
 
-/*.prevmenu_tab {background-color: #10c77a;padding: 5%; margin-bottom: 15px; border-radius: 3px; color: #fff; cursor: pointer;}
+/*.prevmenu_tab {background-color: #018f98;padding: 5%; margin-bottom: 15px; border-radius: 3px; color: #fff; cursor: pointer;}
 .prevmenu_tab h4 {margin-bottom: 0; width: 100%;float-left;}*/
 
 .side_menu {
@@ -5542,7 +5542,7 @@ li.mobile_filter_open:hover {
 }
 
 .side_menu ul li.active_tab {
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .side_menu ul a li.active_tab {
@@ -5557,7 +5557,7 @@ li.mobile_filter_open:hover {
 }
 
 .side_menu ul li:hover {
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
     font-weight: 600;
 }
@@ -5625,7 +5625,7 @@ li.mobile_filter_open:hover {
 }
 
 .form-box .btn-success {
-    background-color: #10c77a;
+    background-color: #018f98;
     border: none;
     font-size: 14px;
     width: auto;
@@ -5680,8 +5680,8 @@ li.mobile_filter_open:hover {
 }
 
 .pinkBg {
-    background-color: #10c77a !important;
-    background-image: linear-gradient(90deg, #10c77a, #2a7394);
+    background-color: #018f98 !important;
+    background-image: linear-gradient(90deg, #018f98, #2a7394);
 }
 
 .intro-banner-vdo-play-btn {
@@ -5778,7 +5778,7 @@ li.mobile_filter_open:hover {
 
 .reviewbox button {
     border: none;
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
     padding: 1%;
     border-radius: 3px;
@@ -5839,14 +5839,14 @@ label {
 .rating>input:checked~label,
 .rating:not(:checked)>label:hover,
 .rating:not(:checked)>label:hover~label {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .rating>input:checked+label:hover,
 .rating>input:checked~label:hover,
 .rating>label:hover~input:checked~label,
 .rating>input:checked~label:hover~label {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .filter_userpanel {
@@ -5872,7 +5872,7 @@ label {
     overflow: hidden;
     top: 170px;
     left: 5%;
-    background-color: #10c77a;
+    background-color: #018f98;
 }
 
 .edit_profile_img:hover .edit_img_btn {
@@ -5911,7 +5911,7 @@ label {
     display: none !important;
     position: absolute !important;
     top: -10px !important;
-    background-color: #10c77abd !important;
+    background-color: #018f98bd !important;
     color: #ffffff !important;
     left: -5px !important;
     padding: 30% !important;
@@ -6074,7 +6074,7 @@ label {
 }
 
 /*.uploaded_pic {width: 100px; height: 100%;min-height: 60px;max-height: 60px;float: left;display: flex;padding: 5px;background-color: #ccc;margin-right: 5px;overflow: hidden;margin-bottom: 5px;position: relative;cursor: pointer;}
-.uploaded_pic a {visibility: hidden;position: absolute;right: 0;width: 100%;top: 0px;color: #fff;padding: 21px;background-color: #10c77aa6;text-align: center;}
+.uploaded_pic a {visibility: hidden;position: absolute;right: 0;width: 100%;top: 0px;color: #fff;padding: 21px;background-color: #018f98a6;text-align: center;}
 .uploaded_pic:hover .close_btn {visibility: visible !important;}
 .uploaded_pic img {width: 100%;height: auto;}*/
 
@@ -6104,7 +6104,7 @@ label {
     overflow: hidden;
     top: 80px;
     left: 10%;
-    background-color: #10c77a;
+    background-color: #018f98;
     box-shadow: -1px 3px 5px #000;
 }
 
@@ -6158,7 +6158,7 @@ label {
     position: absolute;
     right: -5px;
     top: -5px;
-    background-color: #10c77a;
+    background-color: #018f98;
     color: #fff;
     border-radius: 50%;
 }
@@ -6217,7 +6217,7 @@ label {
 }
 
 .list_pet_detail h6 {
-    color: #10c77a;
+    color: #018f98;
     font-size: 14px;
     font-weight: 600;
     margin-top: 10px;
@@ -6267,7 +6267,7 @@ label {
 
 .complete_status {
     font-weight: 600;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .panel-title>a:before {
@@ -6315,7 +6315,7 @@ label {
 }
 
 .status_right strong {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .files input {
@@ -6390,7 +6390,7 @@ label {
     content: "\f101";
     font-family: FontAwesome;
     margin-right: 5px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .custom-file-upload input[type="file"] {
@@ -6404,7 +6404,7 @@ label {
     cursor: pointer;
     border-radius: 3px;
     font-size: 12px;
-    background-color: #10c77a;
+    background-color: #018f98;
     font-weight: 600;
     margin: 0;
 }
@@ -6464,7 +6464,7 @@ label {
 
 /*.completed_work {list-style:none;padding: 0; margin:0;}
 .completed_work li{display: inline-block; font-size: 12px; font-weight:bold; margin-right: 15px;}
-.completed_work li:before {content:"\f00c"; font-family:FontAwesome; color:#10c77a; margin-right: 5px;}*/
+.completed_work li:before {content:"\f00c"; font-family:FontAwesome; color:#018f98; margin-right: 5px;}*/
 
 .footer_borderbox {
     border: 2px solid #d4d4d4;
@@ -6518,7 +6518,7 @@ label {
 }
 
 .payment_amount {
-    color: #10c77a;
+    color: #018f98;
     font-size: 18px;
     font-weight: 600;
 }
@@ -6564,10 +6564,10 @@ label {
     padding: 10px 50px 0;
     height: 44px;
     border-radius: 22px;
-    border: 1px dotted #10c77a;
+    border: 1px dotted #018f98;
     font-weight: 600;
     display: inline-block;
-    color: #10c77a;
+    color: #018f98;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .05);
 }
 
@@ -6579,13 +6579,13 @@ label {
 .earning_box h4 {
     font-size: 14px !important;
     margin: 0;
-    border: 1px dashed #10c77a;
+    border: 1px dashed #018f98;
     padding: 1%;
     margin-bottom: 10px;
 }
 
 .earning_box h4 strong {
-    color: #10c77a;
+    color: #018f98;
     font-weight: 600;
 }
 
@@ -6603,7 +6603,7 @@ label {
     content: "\f101";
     font-family: FontAwesome;
     margin-right: 5px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .tracking_box .timeline {
@@ -6718,7 +6718,7 @@ label {
 }
 
 span.customer-pet {
-    color: #10c77a;
+    color: #018f98;
 }
 
 span.vender-pet {
@@ -6767,7 +6767,7 @@ span.vender-pet {
 
 .overall_review small {
     font-size: 14px;
-    color: #10c77a;
+    color: #018f98;
     font-weight: 600;
 }
 
@@ -6781,7 +6781,7 @@ span.vender-pet {
 }
 
 .coustomer_review .media-body h5 {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .price_table .table td,
@@ -6802,7 +6802,7 @@ span.vender-pet {
 .service_bookings_tabs .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
     color: #ffffff;
-    background-color: #10c77a;
+    background-color: #018f98;
     border-color: #dee2e6 #dee2e6 #fff;
     font-size: 14px;
 }
@@ -6871,7 +6871,7 @@ span.vender-pet {
 }
 
 .action_btn .accept {
-    background-color: #10c77a;
+    background-color: #018f98;
     padding: 10px;
     border-radius: 3px;
     color: #fff;
@@ -6907,7 +6907,7 @@ span.vender-pet {
 }
 
 .rej_inquiry_post .service_price {
-    color: #10c77a;
+    color: #018f98;
     font-size: 14px;
     font-family: 'Raleway';
     font-weight: 700;
@@ -6996,7 +6996,7 @@ span.vender-pet {
 }
 
 .tex-margin {
-    color: #10c77a;
+    color: #018f98;
     margin-bottom: 20px;
 }
 
@@ -7035,10 +7035,10 @@ span.vender-pet {
 #lnkNext,
 #lnkLast {
     background-color: #fff;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     border-radius: 50%;
     padding: 7px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .petcolor-pig {
@@ -7081,18 +7081,18 @@ span.vender-pet {
 
 .pagination-tbl {
     background-color: #fff;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     border-radius: 50%;
     padding: 7px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .pagination-btn {
     background-color: #fff;
-    border: 1px solid #10c77a;
+    border: 1px solid #018f98;
     border-radius: 50%;
     margin-right: 5px;
-    color: #10c77a;
+    color: #018f98;
 }
 
 .pagination-btn-margin {
@@ -7122,12 +7122,12 @@ span.vender-pet {
 }
 
 .hei-h6 {
-    color: #10c77a;
+    color: #018f98;
     margin-bottom: 20px;
 }
 
 .Enquery-h {
-    color: #10c77a;
+    color: #018f98;
     margin-bottom: 20px;
 }
 
@@ -7192,7 +7192,7 @@ span.vender-pet {
 .button-filter {
     width: 100%;
     border: none;
-    background-color: #04A4C3;
+    background-color: #;
     cursor: pointer;
     height: calc(1.7em + 0.75rem + 2px);
     font-size: 16px;
@@ -7221,7 +7221,7 @@ span.vender-pet {
 }
 
 .rippleN:hover {
-    background: #04a4c3 radial-gradient(circle, transparent 1%, #04a4c3 1%) center/15000%;
+    background: # radial-gradient(circle, transparent 1%, # 1%) center/15000%;
     color: #fff !important;
     transition: 0.5s;
     cursor: pointer;
@@ -7245,11 +7245,11 @@ span.vender-pet {
     cursor: pointer;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    color: #04A4C3;
+    color: #;
 }
 
 .add-petN span {
-    color: #04a4c3;
+    color: #;
 }
 
 .add-listN a {
@@ -7513,7 +7513,7 @@ span.vender-pet {
     background: #4dbadd26;
     border: none;
     font-size: 12px;
-    color: #10c77a;
+    color: #018f98;
     padding: 2px 8px;
     border-radius: 5px;
     cursor: pointer;
@@ -7796,7 +7796,7 @@ input[type='radio'] {
 }
 
 .bg-tailN {
-    background: #10c77a1A;
+    background: #018F981A;
 }
 
 .testi-img {
@@ -8071,7 +8071,7 @@ select {
     padding-bottom: 5px;
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
-    color: #04a4c3;
+    color: #;
 }
 
 .still-form p {
@@ -8354,7 +8354,7 @@ select {
 
 .Details-view-more button {
     padding: 8px 50px;
-    background: #10c77a;
+    background: #018F98;
     color: #fff;
     border-radius: 4px;
     border: none;
@@ -8407,7 +8407,7 @@ textarea:focus-visible {
 }
 
 .Expert-btn input {
-    background: #10c77a;
+    background: #018F98;
     border: none;
     padding: 5px 30px;
     border-radius: 4px;
@@ -8459,7 +8459,7 @@ textarea:focus-visible {
     width: 18px;
     left: 0;
     bottom: -6px;
-    background: #10c77a;
+    background: #018F98;
     transition: 0.5s ease-in-out
 }
 
@@ -8548,7 +8548,7 @@ textarea:focus-visible {
 }
 
 .switch-button .active-case {
-    color: #10c77a;
+    color: #018F98;
     border-radius: 18px;
     background: #fff;
     font-family: 'Raleway', sans-serif;
@@ -8573,7 +8573,7 @@ textarea:focus-visible {
 }
 
 .Pet-parent-Buy span {
-    background: #10c77a;
+    background: #018F98;
     border: none;
     padding: 10px 40px;
     border-radius: 4px;
@@ -8679,7 +8679,7 @@ textarea:focus-visible {
 }
 
 .faq-leval-bg {
-    background-color: #10c77a !important;
+    background-color: #018F98 !important;
 }
 
 .content-info-fqe {
@@ -8752,7 +8752,7 @@ textarea:focus-visible {
 }
 
 .signup-btnD input {
-    background: #04A4C3 !important;
+    background: # !important;
     color: #fff;
 }
 
@@ -8860,7 +8860,7 @@ textarea:focus-visible {
 
 .country-code-cd button:hover {
     cursor: pointer;
-    background: #04A4C3;
+    background: #;
     color: #fff;
 }
 
@@ -9042,7 +9042,7 @@ textarea:focus-visible {
 
 .Booking-formN h1 {
     text-align: center;
-    color: #04a4c3;
+    color: #;
     font-size: 32px;
 }
 
@@ -9063,12 +9063,12 @@ textarea:focus-visible {
 
 .subAd span {
     font-size: 22px !important;
-    color: #04a4c3 !important;
+    color: # !important;
 }
 
 .Booking-formN span {
     font-size: 16px;
-    color: #04a4c3;
+    color: #;
     padding: 0px 5px;
     font-weight: 500;
     cursor: pointer;
@@ -9098,13 +9098,13 @@ textarea:focus-visible {
 }
 
 .Booking-formN h3 {
-    color: #04a4c3;
+    color: #;
     padding: 10px 0;
     font-size: 26px;
 }
 
 .sapn-color {
-    color: #04a4c3;
+    color: #;
 }
 
 .booking-formN-img img {
@@ -9114,7 +9114,7 @@ textarea:focus-visible {
 .Booking-formN-submit span {
     border-radius: 5px;
     color: #fff;
-    background: #04a4c3;
+    background: #;
 }
 
 .input-group-text {
@@ -9191,7 +9191,7 @@ textarea:focus-visible {
 .otp-sectionN span input {
     color: #fff;
     font-size: 12px !important;
-    background: #04a4c3 !important;
+    background: # !important;
     padding: 5px 12px;
     border-radius: 5px;
     margin: 0 5px;
@@ -9219,12 +9219,12 @@ textarea:focus-visible {
     right: 20px !important;
 }
 
-/*.modal-title-To{color:#04a4c3;}*/
+/*.modal-title-To{color:#;}*/
 
 .Verify_otp_btn span {
     padding: 10px 20px;
     color: #fff;
-    background: #10c77a;
+    background: #018f98;
     border-radius: 3px;
     cursor: pointer;
 }
@@ -9276,7 +9276,7 @@ textarea:focus-visible {
 
 .upi_details span {
     margin: 2px 0;
-    color: #04a4c3 !important;
+    color: # !important;
     font-size: 13px !important;
     font-weight: 600;
     padding: 8px 5px;
@@ -9355,14 +9355,14 @@ textarea:focus-visible {
 }
 
 .cash_date_form_name h1 {
-    color: #04a4c3;
+    color: #;
     font-size: 32px;
 }
 
 .success_formN {
     padding: 18px;
     overflow: hidden;
-    border-top: 5px solid #10c77a61;
+    border-top: 5px solid #018f9861;
 }
 
 .success_formN img {
@@ -9457,7 +9457,7 @@ textarea:focus-visible {
 
 .trans1-cta h3 {
     font-size: 22px;
-    color: #10c77a;
+    color: #018F98;
     padding-bottom: 15px;
     padding-top: 15px;
 }
@@ -9474,7 +9474,7 @@ textarea:focus-visible {
 }
 
 .sub-bnt-cta input {
-    background: #10c77a;
+    background: #018f98;
     color: #fff;
     width: 100%;
     border: none;
@@ -9529,7 +9529,7 @@ textarea:focus-visible {
 }
 
 .trans-heading h2 {
-    color: #10c77a;
+    color: #018F98;
 }
 
 .type_of_transpotation {
@@ -9597,7 +9597,7 @@ textarea:focus-visible {
     position: relative;
     cursor: pointer;
     transition: 0.5s;
-    background: #10c77a;
+    background: #018F98;
     overflow-x: hidden;
     box-shadow: 1px 1px 14px -6px rgb(1 143 152 / 42%);
     height: 180px;
@@ -9612,7 +9612,7 @@ textarea:focus-visible {
     width: 0%;
     bottom: 0;
     height: 3px;
-    background: #10c77a;
+    background: #018F98;
     left: 0;
     border-radius: 0px;
 }
@@ -9713,23 +9713,23 @@ textarea:focus-visible {
 }
 
 .how_it_work_card1 {
-    background: #10c77a;
-    color: #10c77a;
+    background: #018f98;
+    color: #018f98;
 }
 
 .how_it_work_card2 {
-    background: #10c77a;
-    color: #10c77a;
+    background: #018f98;
+    color: #018f98;
 }
 
 .how_it_work_card3 {
-    background: #10c77a;
-    color: #10c77a;
+    background: #018f98;
+    color: #018f98;
 }
 
 .how_it_work_card4 {
-    background: #10c77a;
-    color: #10c77a;
+    background: #018f98;
+    color: #018f98;
 }
 
 .how_it_under_wh h4 {
@@ -9752,7 +9752,7 @@ textarea:focus-visible {
 }
 
 .content_how_it_work_content h2 {
-    color: #10c77a;
+    color: #018F98;
     font-size: 30px;
     padding-bottom: 16px;
 }
@@ -9827,17 +9827,17 @@ textarea:focus-visible {
 .world-count span {
     display: inline-block;
     background: #fff;
-    border-right: 5px solid#10c77a;
+    border-right: 5px solid#018F98;
     padding: 12 46px;
     font-size: 22px;
     font-weight: 600;
-    color: #10c77a;
+    color: #018F98;
     border-radius: 10px;
     box-shadow: 1px 1px 11px 4px rgb(167 158 158 / 63%);
 }
 
 .trans_counter_bg {
-    background: #10c77a;
+    background: #018F98;
 }
 
 .trans_counter h5 {
@@ -9873,13 +9873,13 @@ textarea:focus-visible {
 }
 
 .Tream_faq-main-button {
-    color: #10c77a !important;
+    color: #018F98 !important;
     font-weight: bold;
     font-size: 18px;
 }
 
 .Tream_faq_i {
-    color: #10c77a;
+    color: #018f98;
 }
 
 .Tream_faq_bg {
@@ -9896,7 +9896,7 @@ textarea:focus-visible {
     border-radius: 5px;
     box-shadow: 1px 1px 24px 4px rgb(233 231 231);
     overflow: hidden;
-    border-top: 4px solid#10c77a;
+    border-top: 4px solid#018f98;
 }
 
 .trans_input_form {
@@ -9908,7 +9908,7 @@ textarea:focus-visible {
     padding: 10px 0;
     margin-bottom: 10px;
     font-size: 22px;
-    color: #10c77a;
+    color: #018F98;
 }
 
 .form_kg_work {
@@ -9917,7 +9917,7 @@ textarea:focus-visible {
 
 .form_kg_work label {
     position: absolute;
-    background: #10c77a;
+    background: #018f98;
     color: #fff;
     right: 0;
     top: 0;
@@ -9954,7 +9954,7 @@ textarea:focus-visible {
 
 .Submit_form_btn span {
     padding: 12px 43px;
-    background: #10c77a;
+    background: #018f98;
     color: #fff;
     border-radius: 5px;
 }
@@ -9975,12 +9975,12 @@ textarea:focus-visible {
 }
 
 .trans_about-content h2 {
-    color: #10c77a;
+    color: #018F98;
     padding: 10px 0;
 }
 
 .trans_about-content h3 {
-    color: #10c77a;
+    color: #018F98;
 }
 
 .g-map-trans span {
@@ -9990,7 +9990,7 @@ textarea:focus-visible {
     transform: translate(-50%, -50%);
     font-size: 24px;
     font-weight: bold;
-    color: #10c77a;
+    color: #018F98;
 }
 
 .trsn-card img {
@@ -10047,10 +10047,10 @@ textarea:focus-visible {
 
 .tab-sign-menu .nav-link.active,
 .tab-sign-menu.show>.nav-link {
-    color: #04a4c3 !important;
+    color: # !important;
     background: none !important;
     border-radius: 0px !important;
-    border-bottom: 3px solid#04a4c3 !important;
+    border-bottom: 3px solid# !important;
 }
 
 .tab-sign-menu .nav-link {
@@ -10095,7 +10095,7 @@ textarea:focus-visible {
 }
 
 .keep_mind_box h4 {
-    color: #10c77a;
+    color: #018f98;
 }
 
 /*booking page details*/
